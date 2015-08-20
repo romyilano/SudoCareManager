@@ -1,11 +1,3 @@
-//
-//  BACEManager.m
-//  ParseStarterProject
-//
-//  Created by Romy on 6/15/15.
-//
-//
-
 #import "SudoCareManager.h"
 #import <Parse/Parse.h>
 #import "Constants.h"

@@ -1,11 +1,3 @@
-//
-//  Constants.m
-//  ParseStarterProject
-//
-//  Created by Romy on 6/5/15.
-//
-//
-
 #import "Constants.h"
 #import "SecretKeys.h"
 

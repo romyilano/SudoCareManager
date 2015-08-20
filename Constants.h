@@ -28,7 +28,7 @@ extern NSString *const kParseThingCommentsKey;
 
 @end
 
-typedef NS_ENUM(NSInteger, ParseFetchError)  {
+typedef NS_ENUM(NSUInteger, ParseFetchError)  {
     ParseFetchErrorUserNotLoggedInError,
     ParseFetchErrorNoDataError,
     ParseFetchErrorNetworkCallFailedError,
